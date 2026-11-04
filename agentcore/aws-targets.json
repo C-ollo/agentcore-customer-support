@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "default",
+    "description": "Workshop target (prereqs stack lives in us-west-2)",
+    "account": "<AWS_ACCOUNT_ID>",
+    "region": "us-west-2"
+  }
+]
